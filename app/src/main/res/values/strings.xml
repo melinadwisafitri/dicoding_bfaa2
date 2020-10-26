@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gitthub_User</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="img_avatar">Image Avatar</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="gists">Gists</string>
+    <string name="no">0</string>
+    <string name="back">Back</string>
+    <string name="setting">Settings</string>
+    <string name="login">Login</string>
+    <string name="share">Share</string>
+</resources>
